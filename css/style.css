@@ -4042,6 +4042,15 @@ address p {
 .height-600 {
     height: 600px!important;
 }
+.height-700 {
+    height: 700px!important;
+}
+.height-800 {
+    height: 800px!important;
+}
+.height-900 {
+    height: 900px!important;
+}
 
 .width-300 {
     width: 300px!important;
