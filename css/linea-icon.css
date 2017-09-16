@@ -23,6 +23,11 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-wordpress:before {
+	content: "\eab4";
+  }
+
+
 .icon-adjustments:before {
 	content: "\e92d";
 }
