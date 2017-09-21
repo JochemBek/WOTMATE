@@ -135,7 +135,7 @@ Table of contents
 
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto', 'Source Sans Pro', sans-serif;
     line-height: 1.5;
     color: #323232;
     font-size: 15px;
@@ -160,7 +160,7 @@ h6 {
     font-weight: 600;
     line-height: 1.5;
     margin: 0 0 30px 0;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Roboto', 'Abel', sans-serif;
     font-weight: normal;
 }
 
@@ -206,7 +206,7 @@ p {
 }
 
 p, li {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto', 'Source Sans Pro', sans-serif;
 }
 
 hr {
@@ -493,7 +493,7 @@ header.sticky .logo-brand {
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto', 'Source Sans Pro', sans-serif;
     text-transform: uppercase;
     letter-spacing: .5px;
     font-weight: normal;
@@ -1483,7 +1483,7 @@ header.nav-block-left {
     font-size:12px;
     margin-bottom: 0;
     text-transform: uppercase;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Roboto', 'Abel', sans-serif;
     font-weight: normal;
     letter-spacing: 3px;
     color: #757575;
@@ -1547,7 +1547,7 @@ header.nav-block-left {
     margin: 0 15px;
     text-transform: uppercase;
     font-size: 14px;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Roboto' ,'Abel', sans-serif;
     letter-spacing: 3px;
 }
 
@@ -1595,7 +1595,7 @@ header.nav-block-left {
     margin: 0;
     font-size: 12px;
     text-transform: uppercase;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Roboto', 'Abel', sans-serif;
     font-weight: normal;
     letter-spacing: 2px;
     color: #7e7e7e;
@@ -2154,7 +2154,7 @@ header.nav-block-left {
 }
 
 .rev-subheading {
-    font-family: 'Abel', sans-serif;
+    font-family: 'Roboto', 'Abel', sans-serif;
     text-transform: uppercase;
     color: #555;
     font-size: 20px;
@@ -2396,7 +2396,7 @@ header.nav-block-left {
 .count-down,
 .count-down-alt {
     text-transform: uppercase;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Roboto', 'Abel', sans-serif;
 }
 
 .count-down .c-grid,

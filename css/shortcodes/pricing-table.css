@@ -6,8 +6,10 @@
 .price-col {
     background: #fff;
     border: 1px solid #e8e8e8;
-    padding: 50px;
+    padding: 35px;
     text-align: center;
+    position: relative;
+    top: 15px;
 }
 
 .price-col.feature {
@@ -262,6 +264,21 @@
 .price-table-row .col-xs-9 {
     position: relative;
     min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+@media screen and (min-width: 992px) {
+    .featured {
+        box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        position: relative;
+        z-index: 999;
+        top: 0px;
+        padding: 50px!important;
+    }
+
+    .price-table-parallax {
+        min-height: 100vh;
+        padding-top: 50px!important;
+    }
 }
