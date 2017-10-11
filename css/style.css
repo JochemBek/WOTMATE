@@ -4188,3 +4188,9 @@ address p {
 .gray-bg-alt {
     background: #e8e8e8;
 }
+
+
+.icon-larger:before 
+{
+  font-size: 50px;
+}
